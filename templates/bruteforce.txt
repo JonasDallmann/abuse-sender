@@ -1,0 +1,11 @@
+Dear Security Team,
+
+Our systems have detected brute force attack attempts originating from your IP address {{ IP_ADDRESS }}. The details are as follows:  
+- Targeted Service: {{ SERVICE_NAME }}  
+- Time Range: {{ TIME_RANGE }}  
+
+We kindly ask you to address this issue immediately and secure your systems to prevent further incidents. If you need additional details, please do not hesitate to contact us.
+
+Best regards,  
+{{ YOUR_NAME }}  
+{{ YOUR_CONTACT_INFO }}

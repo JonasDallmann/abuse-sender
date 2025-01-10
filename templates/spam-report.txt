@@ -1,0 +1,11 @@
+Dear Sir/Madam,
+
+Our monitoring systems have detected spam activities originating from the domain or IP address {{ DOMAIN_OR_IP }}. This violates acceptable use policies and negatively impacts internet users.
+
+We kindly request that you investigate this matter and take the necessary steps to prevent further spam-related activities.
+
+Thank you for your attention. Please let us know if you require any additional details or logs.
+
+Kind regards,  
+{{ YOUR_NAME }}  
+{{ YOUR_CONTACT_INFO }}

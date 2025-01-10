@@ -1,0 +1,13 @@
+Dear Security Team,
+
+We are reporting a phishing email received from {{ SENDER_EMAIL }}. This email appears to impersonate your organization and may pose a significant risk to other users.
+
+Details of the phishing email:  
+- Subject: {{ EMAIL_SUBJECT }}  
+- Date: {{ EMAIL_DATE }}  
+
+Please take immediate action to investigate the source and mitigate any potential harm. Let us know if you need further information or additional evidence.
+
+Best regards,  
+{{ YOUR_NAME }}  
+{{ YOUR_CONTACT_INFO }}
